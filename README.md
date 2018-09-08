@@ -1,1 +1,2 @@
-[![build status of master](https://travis-ci.org/ ZYZMarshall/Triangle567.svg?branch=master)](https://travis-ci.org/ZYZMarshall/Triangle567)
+[![build status of masters](https://travis-ci.org/ZYZMarshall/Triangle567.svg?branch=master)]
+(http://travis-ci.org/ZYZMashall/Triangle567)
