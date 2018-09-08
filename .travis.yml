@@ -1,7 +1,8 @@
 language: python
 python:
- - "3.7.0"
+ - "3.7"
 
 # command to run tests
 script:
  - python -m unittest TestTriangle
+ script: bundle exec rake build && bundle exec rake builddoc
